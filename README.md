@@ -3,7 +3,7 @@ Fuzzy C-Means (FCM) is an unsupervised method of clustering datasets in such ama
 
 A simple implementation of FCM has been coded in MATLAB here.
 
-![Points](https://user-images.githubusercontent.com/39689610/86534111-65a71300-bef3-11ea-944d-57622d5abfc1.jpg)
+![Points](https://user-images.githubusercontent.com/39689610/86534111-65a71300-bef3-11ea-944d-57622d5abfc1.jpg = 250x250)
 
 ![ClustPoints](https://user-images.githubusercontent.com/39689610/86534123-7a83a680-bef3-11ea-9ab4-7aa9b0dfacdf.jpg)
 
