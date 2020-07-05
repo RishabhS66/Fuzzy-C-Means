@@ -5,6 +5,5 @@ A simple implementation of FCM has been coded in MATLAB here.
 
 
 
-<img src="https://user-images.githubusercontent.com/39689610/86534111-65a71300-bef3-11ea-944d-57622d5abfc1.jpg" width="500" height="500">
-<img src="https://user-images.githubusercontent.com/39689610/86534123-7a83a680-bef3-11ea-9ab4-7aa9b0dfacdf.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/39689610/86534111-65a71300-bef3-11ea-944d-57622d5abfc1.jpg" width="500" height="500"> <img src="https://user-images.githubusercontent.com/39689610/86534123-7a83a680-bef3-11ea-9ab4-7aa9b0dfacdf.jpg" width="500" height="500">
 
